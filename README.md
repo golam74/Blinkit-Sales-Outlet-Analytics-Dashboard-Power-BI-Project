@@ -45,3 +45,12 @@ The dashboard is designed to deliver clear and actionable insights to support da
 ## 📬 Connect
 If you like this project or have any suggestions, feel free to connect or contribute!
 
+![Missing Value](https://github.com/golam74/Blinkit-Sales-Outlet-Analytics-Dashboard-Power-BI-Project/blob/61e4dfd6325c4bdd385b913e41426747d750c8e6/Check%20for%20missing%20values.png)
+![Correlation Headmat](https://github.com/golam74/Blinkit-Sales-Outlet-Analytics-Dashboard-Power-BI-Project/blob/61e4dfd6325c4bdd385b913e41426747d750c8e6/Correlation%20Analysis%20(2).png)
+![Correlation Matrix](https://github.com/golam74/Blinkit-Sales-Outlet-Analytics-Dashboard-Power-BI-Project/blob/61e4dfd6325c4bdd385b913e41426747d750c8e6/Correlation%20Analysis.png)
+![Dataset Info](https://github.com/golam74/Blinkit-Sales-Outlet-Analytics-Dashboard-Power-BI-Project/blob/61e4dfd6325c4bdd385b913e41426747d750c8e6/Dataset%20Info.png)
+![Summry](https://github.com/golam74/Blinkit-Sales-Outlet-Analytics-Dashboard-Power-BI-Project/blob/61e4dfd6325c4bdd385b913e41426747d750c8e6/Sales%20by%20Outlet%20Type.png)
+![Top Sales](https://github.com/golam74/Blinkit-Sales-Outlet-Analytics-Dashboard-Power-BI-Project/blob/61e4dfd6325c4bdd385b913e41426747d750c8e6/Top%20Item%20Types%20by%20Avg%20Sales.png)
+![Total sales ](https://github.com/golam74/Blinkit-Sales-Outlet-Analytics-Dashboard-Power-BI-Project/blob/61e4dfd6325c4bdd385b913e41426747d750c8e6/Total%20Sales%20by%20Outlet%20Type.png)
+
+
